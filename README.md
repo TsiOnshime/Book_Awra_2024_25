@@ -9,7 +9,8 @@ Yadeni Lemma      | UGR/0174/15
 Yedi Worku        | UGR/1035/15
 Yordanos Abay     | UGR/0919/15
 
-##About BookAura
+## About BookAura
+
 📖 BookAura is a Kotlin-based Wattpad clone that allows users to write, read, and interact with stories. It features user authentication, story management, and interactive elements like likes and comments. The app runs locally, using a Node.js/Express.js backend with MongoDB as the database.
 🛠️ Tech Stack
 Frontend: Kotlin (Jetpack Compose/Android)Backend: Node.js, Express.js
