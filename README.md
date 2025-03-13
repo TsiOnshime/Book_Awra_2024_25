@@ -15,7 +15,7 @@ Yordanos Abay     | UGR/0919/15
 🛠️ Tech Stack
 Frontend: Kotlin (Jetpack Compose/Android)Backend: Node.js, Express.js
 Database: MongoDBAuthentication: JWT (JSON Web Token)
-✨ Features
+### ✨ Features
 1. Authentication & AuthorizationUser sign-up & login with JWT authentication.
 Role-based access (Regular Users & Admins).
 Password hashing using bcrypt.
