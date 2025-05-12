@@ -11,7 +11,7 @@ Yordanos Abay     | UGR/0919/15
 
 ## About BookAura
 
-📖 BookAura is a Kotlin-based app that allows users to write, read, and interact with stories. It features user authentication, story management, and interactive elements like likes and comments. The app runs locally, using a Node.js/Express.js backend with MongoDB as the database.
+📖 BookAura is a Kotlin-based app that allows users to write, read, and interact with stories. It features user authentication, story management, and interactive elements like likes and comments. The app runs locally, using a Nest.js backend with MongoDB as the database.
 🛠️ Tech Stack
 Frontend: Kotlin (Jetpack Compose/Android)Backend: Node.js, Express.js
 Database: MongoDBAuthentication: JWT (JSON Web Token)
